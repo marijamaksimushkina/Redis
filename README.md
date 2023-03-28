@@ -1,1 +1,1 @@
-# skill-redis-java
+# redis-java
